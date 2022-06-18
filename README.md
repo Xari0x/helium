@@ -12,6 +12,6 @@ Helium Launcher
 
 | Plateforme | Fichier |
 | :-------- | :------- |
-| `Windows` | `Helium-Setup-1.0.0.exe` |
+| `Windows` | `Helium-Setup-VERSION.exe` |
 | `macOS` | `X` |
 | `Linux` | `X` |
